@@ -1,0 +1,58 @@
+{
+    "guid":"webapp-starter-kit",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/webapp-starter-kit.git"
+        
+    },
+    "dependencies": [
+        {
+            "guid":"arestme",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/arestme.git",
+            "branch":"master"
+    	},{
+            "guid":"qunit",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/qunit.git",
+            "branch":"master"
+    	},{
+            "guid":"jsmockito",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/jsmockito.git",
+            "branch":"master"
+    	},{
+            "guid":"core_testui",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/core_testui.git",
+            "branch":"master"
+    	},{
+            "guid":"core_testui",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/swagger_ui.git",
+            "branch":"master"
+    	},{
+    	    "guid":"master_currency_data",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/master_currency_data.git",
+            "branch":"master"
+    	},{
+    	    "guid":"master_currency_services",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/master_currency_services.git",
+            "branch":"master"
+    	},{
+    	    "guid":"master_country_data",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/master_country_data.git",
+            "branch":"master"
+    	},{
+    	    "guid":"master_country_services",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/master_country_services.git",
+            "branch":"master"
+    	}
+	]
+    
+}
