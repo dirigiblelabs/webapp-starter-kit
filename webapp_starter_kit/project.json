@@ -28,7 +28,7 @@
             "url": "https://github.com/dirigiblelabs/core_testui.git",
             "branch":"master"
     	},{
-            "guid":"core_testui",
+            "guid":"swagger_ui",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/swagger_ui.git",
             "branch":"master"
