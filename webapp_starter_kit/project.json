@@ -13,6 +13,16 @@
             "url": "https://github.com/dirigiblelabs/arestme.git",
             "branch":"master"
     	},{
+            "guid":"arestme",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/daoism.git",
+            "branch":"master"
+    	},{
+            "guid":"arestme",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/core_iam.git",
+            "branch":"master"
+    	},{
             "guid":"qunit",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/qunit.git",
